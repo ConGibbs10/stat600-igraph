@@ -25,7 +25,7 @@ A network is a _graph_ which describes how entities (i.e. vertices or nodes) int
 Consider this set of ten individuals, and suppose they are organized in the following social network:
 
 <center>
-![Figure 1: simple undirected social network](../src/clipart-net/Slide6.jpg)
+![Figure 1: simple undirected social network](./src/clipart-net/Slide6.jpg)
 
 </center>
 
@@ -159,7 +159,7 @@ all(E(g1) == E(g3)) # g1 was already shown to be equal to g2
 In the previous section, we explored three `igraph` functions for creating networks and `R`. We also outlined how to access and edit node and edge attributes for existing graphs as well as add attributes. What we did not explore is how to use these attributes to create more general networks than the simple undirected network presented again in Figure 3A. The observed social network could be more complex as in Figures 3B-D. 
 
 <center>
-![Figure 3: more general networks including (A) undirected network, (B) directed network, (C) weighted undirected network, and (D) undirected network with valued edges. ](../src/clipart-net/diff-nets.jpg)
+![Figure 3: more general networks including (A) undirected network, (B) directed network, (C) weighted undirected network, and (D) undirected network with valued edges. ](./src/clipart-net/diff-nets.jpg)
 
 </center>
 
